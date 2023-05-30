@@ -29,7 +29,7 @@ function Teacher() {
   return (
     <Box>
       <Box  width="80%" margin={"auto"} mt={"5%"}>
-        <Text color={"#423F8D"} fontWeight={"extrabold"} fontSize={"2.5rem"}>Classes We Offer</Text>
+        <Text color={"#423F8D"} fontWeight={"extrabold"} fontSize={"2.5rem"}>Expert Teachers</Text>
         <Text fontSize={"1.2rem"} width="70%" margin={"auto"} mt="10px" color={"#423F8D"} >Our set he for firmament morning sixth subdue today the darkness creeping gathered divide our let god moving today. Moving in fourth air night bring upon lesser subdue.</Text>
       </Box>
 
